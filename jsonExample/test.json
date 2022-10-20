@@ -1,0 +1,22 @@
+{
+    "name": "All Categories or something",
+    "category": [
+        {
+            "name": "Housing",
+            "other_stuff_etc": "yada_yada"
+        },
+        {
+            "name": "Entertainment",
+            "other_stuff_etc": "yada_yada"
+        },
+        {
+            "name": "Yep",
+            "other_stuff_etc": "yada_yada"
+        },
+        {
+            "name": "Yuh",
+            "other_stuff_etc": "yada_yada"
+        }
+    ]
+    
+}
